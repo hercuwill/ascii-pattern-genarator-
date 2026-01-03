@@ -1,6 +1,5 @@
 //William Hercules 
-//COMP110-Fall2025
-//Project 2
+//Fall 2024
 
 import java.util.Scanner;
 import java.util.Random;
